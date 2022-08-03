@@ -1,0 +1,857 @@
+lines: 1409-2254  
+
+**OUTLINE ( OUTTER SPINE )[ 0.0 ] LANCE RHOVONIDIN**  
+GOAL: To locate Agrippa, and destroy the UltraDam  
+BIG_OPENING [0.0.0] If you could solve this...small but very large problem for me, would be much appreciated;  
+CATALYST [0.0.1] Sheeren gives him the coordinates to The UltraDam  
+BIG_EVENT [0.0.2] Halt, Remnant scum!  
+PINCH [0.0.3] Dr. Meade recognizes Lance / Dr. Meade escapes to warn Agrippa  
+CRISIS [0.0.4] Bar-Hades guards The UltraDam!  
+CLIMAX [0.0.5] He defeats Bar-Hades and Dr. Meade and destroys The UlltraDam  
+REALIZATION [0.0.6] Agrippa is powerful (-)  
+DENOUEMENT [0.0.7]   
+
+SUPER TITLES: The UltraDam  
+
+**EXT. THE NORTHERN EVERGREEN FOREST - THE ULTRADAM -- DAY**  
+
+The UltraDam is a massive power hydro-plant, composed of modern concrete, and perched on the side of an Epic Waterfall!  
+
+Shard crew perform superficial work on the outside, via scaffolding.  
+
+**INT. THE NORTHERN EVERGREEN FOREST - THE ULTRADAM -- MAIN RESEARCH CENTER - DAY**  
+
+Dr. Meade's lab has a massive picture window, overlooking the entire Evergreen Forest, and The Walled Metropolis, off in the distance.  
+
+Dr. Meade and Agrippa saunter through the new research lab.  
+
+Fellow Shard soldiers haul in lab equipment!  
+
+A group of Shard soldiers tote in a cryogenic casket! 
+SEVEN Shard soldier's on each side of it, STRUGGLE to tote the large sarcophagus into the room!!  
+
+It attracts General Agrippa's attention.  
+
+They park the sarcophagus in front of him. He examines the LED readouts, on its side, and then by himself, HEAVES the lid off! 
+The lid THOOMS onto the floor!  
+
+General Agrippa PEERS inside...! 
+
+An Ibra-lim lays, isolated and shifting, within the glass chamber. Its eyes and ears shielded and covered!  
+
+*AGRIPPA  
+What did you do to him??*  
+
+Agrippa readies to press a switch, to open the lid, Dr. Meade beckons his hand away!  
+
+*DR. MEADE  
+You must be careful! 
+The Ibra-lim are very sensitive. 
+You must expose them only to your target.*  
+
+Dr. Meade beckons him to a secluded COMPUTING AREA, across the main room.  
+
+Agrippa, nods, and pulls aside a young guard, CALIDAN.  
+
+*AGRIPPA  
+I want fifty of my strongest guards, with Dr. Meade, 
+at all times, when he's outside The Walled Metropolis, 
+or The UltraDam!*  
+
+*CALIDAN  
+The Sh'Nho'Din?! Right away, sir!*  
+
+The ghost of Tellumus WATCHES them, from behind a cabinet.  
+
+**INT. THE SHEERAN HIDDEN COMMAND BASE - CAVERN - DAY**  
+
+Lance makes his way out of the cavern, from the hidden Sheeran Command Base.  
+
+The ghost OF Tellumus manifests before him!  
+
+// Tellumus now revived warns Lance of Dr. Meade's social engineering weapon //  
+
+*LANCE  
+Tellumus! How are you old friend?!*  
+
+*TELLUMUS  
+You're happy to see me?!*  
+
+*LANCE  
+You give me hope, old friend!*  
+
+*TELLUMUS  
+Hope... ? In what way? For what??*  
+
+They exchange looks.  
+
+*LANCE  
+(Digressive) Never mind!*  
+
+*TELLUMUS  
+Lance! You must not go to the UtraDam. 
+General Agrippa is there, developing a new weapon.*  
+
+*LANCE  
+What do they intend to do with it?*  
+
+*TELLUMUS  
+The new mathematics they've developed 
+enables them to reason over an imprint; 
+The mathematics and the semantic imprint are combined, 
+into a quantum software. 
+It is the imprint, which they need! 
+General Agrippa has converted a few of his men 
+into Remote Viewers -- the Ibra-lim. Through torture. 
+He intends to use them to extract a semantic imprint from you, 
+and deliver it to Dr. Meade.*  
+
+*LANCE  
+Dr. Meade... How did you find this out?*  
+
+*TELLUMUS  
+Lance! They intend to use the semantic imprint to derive a quantum model to predict you! 
+You must not go. If you do, you will likely be confronted 
+by one of his Remote Viewers.*  
+
+Lance ponders his words.  
+
+*LANCE  
+Well, if he has developed such a quantum weapon, 
+there is nothing I can do now. He must be stopped.*  
+
+*TELLUMUS  
+But everything you do once you are in his presence -- 
+every decision you make -- could be a part of his plan!!*  
+
+*LANCE  
+Thank you, my friend! I understand.*  
+
+He is undeterred, as they exchange looks.  
+
+*TELLUMUS  
+Then -- allow me to help you!!*  
+
+They exchange smiles. Lance jets out of the caves, with Tellumus right behind!  
+
+CATALYST [2.0.1] What do I do with it? You must drink it! (potion)  
+BIG_EVENT [2.0.2] He drinks / Bar Hades is born  
+BIG_EVENT [1.1.2] A daughter is born! Bar Hades!!  
+
+// Hennethica accepts Dr. Meade's request //  
+
+**INT. THE WALLED METROPOLIS - BALLROOM - NIGHT**  
+
+Agrippa, Hennethica, and OTHER leadership, surround Dr. Meade and Hennethica!  
+
+Dr. Meade now holds a potion in his hands, approaching Hennethica.  
+
+*DR. MEADE  
+Do you want to help your friend, Agrippa?*  
+
+*HENNETHICA  
+(Nods) I'll do whatever is needed of me!*  
+
+*DR. MEADE  
+I require a volunteer, Hennethica! Someone pure of heart! 
+For my most dangerous experiment! 
+We've reached a very important point; 
+the war is turning.--*  
+
+*HENNETHICA  
+Me?!*  
+
+*DR. MEADE  
+You are the reason we are here, are you not??*  
+
+Agrippa nods!  
+
+*HENNETHICA  
+What do I do with it?*  
+
+*DR. MEADE  
+You must drink it! And you will bear a child--*  
+
+Hennethica EMBRACES him, in his surprise! They KISS!  
+
+Hennethica exits, with the potion in-hand!  
+
+*DR. MEADE  
+(Cont'd, to Agrippa) A very special child! A girl!! 
+If any of us should fall, by an enemy hand, she will grow stronger! 
+And in the day all of us should fall, she will acquire the ability to revive, 
+each and every one of us... as pure energy!*  
+
+IN THE GRAND CORRIDOR  
+
+Hennethica HURRIES down the corridor, in HIGH spirits.  
+
+IN THE QUEEN'S QUARTERS  
+
+Hennethica approaches the bureau and SELECTS the best makeup, and powder, and applies it.  
+
+By accident, he NUDGES the KRAKEN MEDALLION, and knocks it off the bureau, and out the window.  
+
+Disappointed, he SHRUGS and continues with his tasks.  
+
+IN THE BALLROOM  
+
+Hennethica enters the deserted ballroom, to find Agrippa, alone, at its center.  
+
+Hennethica races up to him, and they saunter over to a window, near a BISTRO table.  
+
+Agrippa sets down Hennethica's glass, beside his own.  
+
+Hennethica raises the glasses -- returning Agrippa's, into his hand; 
+retaining the one of DR. MEADE'S potion, from the table.  
+
+*HENNETHICA  
+It's a celebration to us!*  
+
+Agrippa halts Hennethica's hand.  
+
+*AGRIPPA  
+Hennethica... There is a chance you could die. 
+Would you do this for me?*  
+
+They exchange looks.  
+
+Hennethica drinks!  
+
+And then --  
+
+They both drink...  
+
+Hennethica's hand GLOWS as he allows the black orb energy from the glass to ABSORB down into his stomach.  
+
+Excreting a black fluid onto the floor, down his thigh, he notices fingers INSIDE his stomach BEGIN to WRITHE.  
+
+Hennethica SMILES, and then succumbs to the pain, collapsing to the floor.  
+
+In awe, Agrippa reaches down, his hands OUT OF VIEW, as he RAISES a black lizzard, 
+drenched in oily black liquid into our view. Its cries MIMIC the sounds of an infant.  
+
+*AGRIPPA  
+A daughter is born to me!*  
+
+*HENNETHICA  
+It's a girl!!*  
+
+Agrippa REGARDS the reptile.  
+
+*AGRIPPA  
+Bar-Hades!!*  
+
+Hennethica again ACCEPTS the reptile into his arms.  
+
+*HENNETHICA  
+(Reverent) Bar-Hades!!*  
+
+The reptile continues to grow INTO a full-fledged, dragon!  
+
+It huffs and REGARDS the BOTH of them, with a special regard for Hennethica.  
+
+IN THE KING'S CHAMBERS  
+
+While Bar-Hades RESTS, in a corner, Hennethica -- standing in front the bureau, TRACES his fingers over the LONG black stitches down his stomach, from the mirror.  
+
+// Hennethica rears Bar Hades //  
+
+// Hennethica is paged, on his commd, and ordered to send Bar Hades to defend UltraDam //  
+
+PINCH [2.0.3] Bar Hades is reared to adulthood  
+
+THE NEXT DAY  
+
+Hennethica and Bar-Hades approach General Agrippa in the corridor!  
+
+*AGRIPPA  
+Where are you going??*  
+
+*HENNETHICA  
+Today I'm taking Bar-hades on a nature walk!*  
+
+General Agrippa SCRUTINIZES Bar-Hades. KICKING her, not intending to harm!  
+
+Bar-Hades MEWLS, in agony, like a baby calf!  
+
+Hennethica casts him the hairy eyeball!  
+
+*AGRIPPA  
+I certainly hope she gets braver!*  
+
+He then indicates an adjacent room, beckoning a the young Shard guard -- Calidan!  
+
+*AGRIPPA  
+Calidan!*  
+
+IN THE SIDEROOM  
+
+General Agrippa INDICATES Lance's tattered armor, displayed on a table!  
+
+*AGRIPPA  
+Perhaps we should use this as a training opportunity!!*  
+
+Calidan smiles!  
+
+**EXT. THE TUNDRA HILLS - DAY**  
+
+The awkward and LANKY Bar-Hades follows Hennethica along the country-side. Elated, she FLINTS her tongue against the rooftop of her mouth, emitting sparks!  
+
+A Shard soldier approaches, armed with a sword and helmet, and wearing Lance's chest armor!  
+
+Bar-Hades is eager to greet him, however the soldier attacks when Bar-Hades saunters too close, forcing her to flee!  
+
+She casts a quick flame upon him, and nearly burns the guard, before the others can extinguish it!  
+
+She eyes the armor, with distrust, and returns to Hennethica's side!  
+
+Hennethica performs a Clydesdale Promenade.  
+
+Bar-Hades clumsily emulates!  
+
+Hennethica kneels before Bar-Hades eye level, with a playful eye.  
+
+*HENNETHICA  
+Mmm?*  
+
+Bar-Hades huffs and dances, excited!  
+
+Hennethica smiles.  
+
+Hennethica turns and eyes a tiny beetle, laboring across a flower. Bar-Hades tries to emulate Hennethica.  
+
+The beetle offs the both of them with its middle finger!  
+
+Hennethica returns the look of a disapproving mother! Bar-Hades notices and shoots a puff of fire at the flower, singe-ing the beetle and sending him angrily on his way!  
+
+Hennethica then feels the ground RUMBLE! He circles around, befuddled: Then realizing Bar-Hades has trippled in size!!  
+
+The ground beneath them again TREMLBES.  
+
+Hennethica receives a chirp, on his comms.  
+
+// In the highdem mountains, before the entrance to UltraDam, Lance confronts Shinoba //  
+
+**EXT. THE HIGHDEM MOUNTAINS - THE ULTRADAM - DAY**  
+
+// Shard soldiers spot Lance on a frozen ridge //  
+
+*SNIPER SPOTTER  
+(Filtered) We've spotted a Remnant, sir! 
+He's heading to the North ridge. 
+We think it may be him!!*  
+
+*SHINOBA  
+Close off the ridge, send him this way!*  
+
+*SNIPER SPOTTER  
+(Filtered) Roger that, sir!*  
+
+AT THE NORTH RIDGE  
+
+A SNIPER draws a reticle on Lance, as Lance wades through the knee deep snow, only to find his path blocked by a snow drift! Lance tries in vain to wade or dig...  
+
+AT THE LEDGE  
+
+The spotter TAPS the sniper ON the shoulder, dismissive.  
+
+*SNIPER SPOTTER  
+Where he's going, it's suicide! Don't even waste your time.*  
+
+AT THE NORTH RIDGE  
+
+Lance steps away, dispirited.  
+
+NEAR SHINOBA'S POSITION  
+
+As Lance travels along the ridge, Shinoba AMBUSHES, from above!  
+
+Shinoba closes the distance.  
+
+Lance steps under Shinoba, causing his momentum to send him forward, using it to toss him to the ground.  
+
+Shinoba recovers, stunned by the deft technique.   
+
+*SHINOBA  
+Halt, Remnant!*  
+
+Gusts of wind and snow woosh the mountainside.  
+
+Lance stands, freezing, before Shinoba.  
+
+*SHINOBA  
+You're experiencing cold weather edema. 
+The fluid will continue to fill your lungs. 
+You'll be dead in an hour!*  
+
+They exchange looks.  
+
+Shinoba mutters into his comms!  
+
+*SHINOBA  
+We've got a problem out here, on the ridge!*  
+
+He returns to Lance, proffering manacles.  
+
+*SHINOBA  
+Put these on; you're under arrest!*  
+
+*LANCE  
+I will do no such thing.*  
+
+Shinoba lunges for Lance's wrist, tripping him, and pins him to the ground. 
+Lance bucks, shifting Shinoba, allowing him to recover to a knee. 
+He grips the cuff and Shinoba's wrist, in an effort to cuff Shinoba!  
+
+Shinoba hurls a punch! Lance sidesteps, and pushes him away.  
+
+They stand, once again, face-to-face.   
+
+*SHINOBA  
+What are you?!*  
+
+Shinoba feels for his comms, and mutters into it!  
+
+*SHINOBA  
+We've got a big problem out here, on the Highdem ridge!!*  
+
+*LANCE  
+Get out of my way.*  
+
+*RADIO COMMS  
+(Filtered) Envoy is en route! Show him the scenery!!*  
+
+*SHINOBA  
+(Into his comms) Confirm!*  
+
+Shinoba indicates the valley's cragged rocks, a ways down below. They exchange looks.  
+
+*SHINOBA  
+I know you! You were at Essex Junction.*  
+
+*LANCE  
+I need your comms, a map of the area, and your subzero gear.*  
+
+Shinoba nods, humored.  
+
+Eight Shard swordsmen and two archers appear, on the ridge!  
+
+*SHINOBA  
+I'm sorry I am unable to comply with that order!!*  
+
+Lance notices Shinoba secure a firm grip on his weapon. The others surround him!  
+
+Lance steps back, stunned!  
+
+*SHINOBA  
+Your body is going to take seventy years to decompose, 
+on those rocks.*  
+
+*LANCE  
+You do not have enough manpower--*  
+
+FIFTY Sh'No'Din enter from around the ridge, and surround Lance!  
+
+They siege upon Lance and he finds himself in a high-adrenalin battle!  
+
+He thrust-returns an archer's arrow, using the Minstrel technique. The archer receives the high velocity arrow, and falls.  
+
+A bold Sh'Nho'Din hurls a haymaker! Lance blocks and executes a Reverse Tuka, the soldier falls, dead.  
+
+Shinoba spots an opening and advances!  
+
+Lance over-commits, and Shinoba throws an arm under him, in mid-stride, bucking his hips, and sends Lance careening over the ledge!  
+
+Lance CLINGS to the ledgd, as Shinoba STAMPS at his frost-bitten fingers.  
+
+*SHINOBA  
+Rise and fight!*  
+
+Using superhuman strength, Lance bounds up over the ledge and lands behind Shinoba, in the center of the group!  
+
+He draws his sword, and repeatedly executes a well-timed An Uninvited Guest, on each oncoming Sh'Nho'Din, followed by a Boss Hoist, hurling Shinoba over the ledge!!  
+
+He wields his weapon. Whoor! Then sheathing it.  
+
+IN THE CREVASS  
+
+Lance climbs down, onto an outcrop, and recovers Shinoba's map, HP, equipment, and his sub-zero gear!  
+
+BACK TO SCENE  
+
+He climbs onto the ridge and turns his attention to the UltraDam doors!  
+
+After entering an invalid number code, the Access Status color on the touchpad changes from green to amber!  
+
+Tellumus appears by his side.  
+
+*LANCE  
+How do we get inside?*  
+
+Tellemus, shrugs.  
+
+The ghost of ShadowCaster, then appears by his side.  
+
+She regards Lance, with a kind glance.  
+
+*LANCE  
+ShadowCaster!*  
+
+*SHADOWCASTER  
+Let me take care of those doors!*  
+
+She halts and waits for Lance to go out to a substation, on a ledge.  
+
+*SHADOWCASTER  
+You'll need to reset the power distribution breaker!*  
+
+Lance does so.  
+
+The Access Status color on the touchpad changes from amber to red!  
+
+He returns.  
+
+*LANCE  
+Hey, ShadowCaster, who's side are you on now??*  
+
+She smiles.  
+
+*SHADOWCASTER  
+Yours!*  
+
+Grateful, Lance tears away the power panel covers, giving her access.  
+
+Tellemus notices a hair-thin YELLOW wire.  
+
+*TELLUMUS
+Be sure not to trip the alarm!*  
+
+// Agrippa ponders Lt.Sheeran's current strategy //  
+
+**INT. THE WALLED METROPOLIS - COMMAND CENTER - DAY**  
+
+General Agrippa ponders across the room.  
+
+*AGRIPPA  
+What is Lieutanant Sheeran up too??*  
+
+*ERICMAIN  
+He made his presence known, at Essex Junction. 
+That was an uncharacteristic error, 
+being he still needs to establish a logistical presence!*  
+
+*AGRIPPA  
+A logistical presence... Meaning he'll try to establish his supply lines.*  
+
+They exchange looks.  
+
+*ERICMAIN  
+Or he could compromise ours! We share a lot of the same technology! 
+We're established -- it's faster, and efficient. 
+And it's not what anyone would expect him to do!*  
+
+Agripp paces for a moment.  
+
+*AGRIPPA  
+Yes. That sounds more inline with his thinking.  
+(then)  
+But why ford so deep into the Swat Valley, 
+through the heart of our best fortification, 
+only to claim the North Shore? It's a savannah!! 
+Why ignore the lithium mines??*  
+
+*ERICMAIN  
+Truly, it is a questionable tactic.*  
+
+*AGRIPPA  
+A wasted opportunity, perhaps; and yet a formiddable show of force! 
+He has a powerful ally. One, we have not seen yet!*  
+
+He turns to his commander, concerned.  
+
+*AGRIPPA  
+Contact our top security commander -- Shinoba! 
+I want to assemble our strongest guards to fortify 
+The Shard's presence at the lithium mines.*  
+
+*ERICMAIN  
+I've been unable to reach him!!*  
+
+Ericmain notices Agrippa grow concerned, and nervous.  
+
+PINCH [0.0.3] Bar Hades is defeated at The UltraDam (1620)(45)  
+PINCH [0.1.3] Bar Hades defends The UltraDam! He defeats Bar Hades,  and the UltraDam is destroyed (45)  
+CRISIS [1.1.4] Lance defeats Dr. Meade, then Bar Hades and the UltraDam is destroyed  
+CRISIS [2.0.4] Bar Hades is defeated at UltraDam  
+PINCH [2.1.3] Lt. Sheeran destroys the UltraDam (45)  
+PINCH [3.1.3] The UltraDam is destroyed  
+CRISIS [1.0.4] Lt. Sheeran destroys The UltraDam (Lance); all electrical power is lost! Lt. Sheeran, in the Highdem mountains: The Ocean Planet is mine!!! (1620)(45)  
+
+// Dr. Meade introduces Lance to the Ibra-Lim //  
+
+**INT. THE ULTRADAM - THE MAIN CORRIDOR - DAY**  
+
+The UltraDam doors part!  
+
+Lance, Tellemus, and ShadowCaster enter!  
+
+A COUNTDOWN looms, overhead!  
+
+INSERT: Shift Change: 00:14:59...58...57!  
+
+IN THE RESEARCH LABS  
+
+Bearing Shinoba's sub-zero gear, Lance enters the unoccupied lab!  
+
+Tellemus and ShadowCaster follow suit, studying equipment.  
+
+A sign sits above the equipment.  
+
+INSERT: HIGGS BOSON == GOD PARTICLE!  
+
+Lance observes integral equations on a nearby whiteboard. He tries to decipher them.  
+
+*DR. MEADE  
+Could you hand me a pipette!*  
+
+Lance complies, then notes the glass tubes, lining the counters.  
+
+*LANCE  
+What does all of this do?*  
+
+Dr. Meade smiles.  
+
+*savannah MEADE  
+This equipment suspends the state of entropy, inside the tube.*  
+
+*LANCE  
+Entropy?*  
+
+*DR. MEADE  
+Yes! Entropy!! The state of decay. This tube slows it, 
+giving us time to analyze its contents!*  
+
+*LANCE  
+You work for Agrippa!*  
+
+*DR. MEADE  
+Oh dear no! Though he supports my research!! 
+As a science officer, in the Federation, 
+I was limited a great deal. 
+But on this planet, in this lab... and because 
+of the war -- I now have unlimited resources.*  
+
+His smile gains Lance's full attention! Dr. Meade sobers. He INSPECTS Lance's credentials:  
+
+*DR. MEADE  
+Why would The Shard send such heavy armorment to my lab... ?  
+
+INSERT: Shinoba - Security Chief  
+
+*DR. MEADE  
+(Soto) Oh dear -- S-Shinoba!*  
+
+Nervous, satisfied, he accepts the pipette, and returns to an adjacent countertop!  
+
+He returns to Lance.  
+
+*DR. MEADE  
+Look here, please!*  
+
+He holds up a mirror, which Lance gazes into: Initially, of his own reflection, 
+and then of the Ibra-Lim, behind him, as Dr. Meade TILTS the mirror!  
+
+Stunned, Lance spins! 
+
+The Ibra-Lim can now hear and see Lance, his coverrings having been removed.  
+
+*DR. MEADE  
+Thank You! And now a voice sample.*  
+
+*LANCE  
+What? What did you do to him?!*  
+
+Dr. Meade holds a tiny spring up to the Ibra-Lim's ear, he squeezes it, and it makes emits a low sound: SNAP!!  
+
+Lance regards Dr. Meade, befuddled.  
+
+*DR. MEADE  
+That man is very sick. Yes.*  
+
+Lance now regards Dr. Meade, with suspicion...!  Curious, he speaks, under his breath.  
+
+*LANCE  
+Dr. Meade?*  
+
+Dr. Meade's eyes bounce about, betraying his identity.  
+
+*DR. MEADE  
+No... He's not here!!*  
+
+*TELLUMUS  
+He's lying Lance, run!!*  
+
+*SHADOWCASTER  
+Lance, please, you need to run!!*  
+
+Dr. Meade holds up a deep navy index card!  
+
+They exchange looks.  
+
+*DR. MEADE  
+Focus! Here, please.*  
+
+Dr. Meade then removes the index card from Lance's view, and places a small red gummy candy in his hand!  
+
+They exchange looks.  
+
+Dr. Meade snaps THE spring -- now hidden, behind his back! 
+
+In an instant, Lance's left-hand SNAPS to his weapon!!  
+
+Dr. Meade glees!  
+
+*DR. MEADE  
+Oh! Good reflexes, indeed!  
+(then, Soto)  
+Yes, this must be done!! 
+You will be a challenge for him!*  
+
+Dr. Meade now studies Lance, with intent. He then notices Lance's expired credentials!  
+
+*DR. MEADE  
+Your credentials are expired! 
+Perhaps you don't belong here. Hmm?! 
+You are obviously not an engineer. 
+Your face is familiar though. *  
+
+Dr. Meade grabs his notebooks and exits.  
+
+*SHADOWCASTER  
+Lance, it's Dr. Meade, you must not let him get away!!*  
+
+*DR. MEADE  
+It was nice meeting you... 
+(O.S., Soto) Lance Rhovonidin!*  
+
+Lance draws his weapon and persues!!  
+
+// DR. MEADE evades Lance //  
+
+IN THE MAIN CORRIDOR  
+
+Papers fly out of Dr. Meade's binder...  
+
+Lance PURSUES him, to the end of the darkened corridor -- Dr. Meade vanishes IN the shadows!  
+
+*DR. MEADE  
+The Federation has sent you, indeed. Haven't they? 
+...Lance Rhovonidin! And you, in your folly, 
+have tried to follow me... 
+Are you in pursuit of my research??*  
+
+Lance peers around and through the shadows.  
+
+Lance then HEARS a LOW, GUTTERAL GROWL, in the shadows!  
+
+*DR. MEADE  
+(O.S.) Your legacy ends here!*  
+
+Lance then notices talons, and then large coarse black hairs -- BRISTLING, as a large gritty -- BAR HADES, rises out of the shadows!!  
+
+The oversized Bar-Hades careens and follows him through a lab!!  
+
+FURTHER DOWN THE CORRIDOR   
+
+Lance SMASHES through a wall, collapsing in the corridor! Bar-Hades, closes behind!  
+
+Bar-Hades easily fends off Lance's underpowered attacks. 
+He LEERS and disables The Remnant, Leviathan, and The Kraken Medallions! 
+He decimates the floor, and they collapse through!  
+
+INT. THE ULTRADAM - THE CAVERN OF THE UNDERGROUND - DAY  
+
+Lance and Bar-Hades collapse and smash into the unlit underground!  
+
+Bar-Hades deflects Lance's advances and tail-whips into a perimeter ledge, inflicting heavy damage! Lance is nearly unable to recover!  
+
+He realizes a hidden staircase and ascends it!!  
+
+// Hennethica ascends to the crown //  
+
+**EXT. THE TAIGA PLAINS - THE EPIC MOUNTAIN - DAY**  
+
+The steep mountain cliffside is dotted by a tiny opening, leading out to nowhere but the ground a thousand meters, below!  
+
+ON THE TUNDRA HILLS  
+
+Hennethica, Agrippa, and other Shard conduct battle formations.  
+
+BACK TO SCENE  
+
+Lance exits through the tiny opening in the mountains and scrambles up the steep mountain cliffside, climbing above the Epic waterfall; Bar-hades smashes through and PERSUES!!  
+
+ON THE TUNDRA HILLS  
+
+The SUDDEN VIOLENCE draws the attention of Agrippa, and his troops.  
+
+BACK TO SCENE  
+
+Lance slips and plummets past Bar-Hades, down the mountainside... !  
+
+As he strikes the water, he falls beyond Bar-Hades range and SUMMONS The Leviathan!!  
+
+The sea creature extends itself, and Lance falls into its embrace!  
+
+//
+
+Victorious, but now severely weakened, Bar-Hades turns her attention to Lance.  
+
+Lance performs another deadly strike!  
+
+ON THE TUNDRA HILLS  
+
+Hennethica, and General Agrippa, WATCH, in horror -- unable to come to the aid of their daughter!  
+
+BACK TO SCENE  
+
+Lance executes a mortal hit, and Bar-Hades is unable to recover!  
+
+//  
+
+IN DR. MEADE'S LAB  
+
+The Ibra-Lim, its eyes wide and unblinking, TUMBLES through the rubble, within its sarcophagus, until it settles in the rubble.  
+
+IN THE CORRIDOR  
+
+Dr. Meade loses his footing, and the corridor collapses away. Fearful, he falls into the darkness!  
+
+ON THE TUNDRA HILLS   
+
+Hennethica, General Agrippa, and others WATCH, in horror, as the UltraDam collapses, 
+crumbling down the mountainside, remnants of it swallowed by the Epic Waterfall...  
+
+INTERCUT: The Power grid fails, across the island-continent; The Remnant Cheer!!!...  
+
+BACK TO SCENE:  
+
+Lance then realizes the glowing key TO Agrippa's X-Fighter, on the ground.  
+
+He RECOVERS it!  
+
+SUPER TITLES: X-Fighter Unlocked!  
+
+ON THE TAIGA PLAINS  
+
+Tears well IN Agrippa's eyes...  
+
+IN THE RUBBLE  
+
+The Ibra-Lim summons a vision of Dr. Meade standing again in the UltraDam's peaceful grand corridor. 
+His back to us. Us yet drawing closer to him, until realizing us behind him. He ejects a condescending laugh.  
+
+The Ibra-Lim MIMICS his laugh.  
+
+The Ibra-Lim's glowing eyes shut.  

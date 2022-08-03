@@ -1,0 +1,12 @@
+# To Read the latest README.md (markdown) as a screenplay in your web browser, it first needs to be rendered as a screenplay:
+# Open command prompt in directory of index.htm file e.g. "C:/MyWebServer/index.htm"
+# Copy READ.MD to directory (eg C:/MyWebServer/README.MD)
+# In the command prompt window, type the following
+
+$ python -m http.server 8356 --bind 127.0.10.1
+
+# Leave the command prompt window open
+
+# In your web browser, navigate to 127.0.10.1:8356
+
+DONE!

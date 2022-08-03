@@ -1,0 +1,17 @@
+#Euclid Automated Theorem Prover : github.com/Seagat2011/Euclid-Automated-Theorem-Prover
+
+#
+{ Rhovonidin } is { King } = { Agrippa } is { Not { King } }
+{ Rhovonidin } Defeats { Agrippa } = { Rhovonidin } is { King } 
+Prove { Rhovonidin } Defeats { Agrippa } = { Agrippa } is { Not { King } }
+
+# [ AB9F289A58B193477C2536B9E9C3A677 ]
+{ Rhovonidin } Destroys { UltraDam } = { Rhovonidin } Defeats { Agrippa }
+{ Rhovonidin } Destroys { UltraDam } = { Agrippa } is { Not { King } }
+Prove { Rhovonidin } Defeats { Agrippa } = { Agrippa } is { Not { King } }
+
+# [ 037FE4AD055058C5C850FC39FCD69866 ]
+{ Rhovonidin } helps { LTSheeran } = { LTSheeran } Destroys { UltraDam }
+{ LTSheeran } Destroys { UltraDam } = { Rhovonidin } Defeats { Agrippa }
+{ Rhovonidin } Defeats { Agrippa } = { Agrippa } is { Not { King } }
+Prove { Rhovonidin } helps { LTSheeran } = { Agrippa } is { Not { King } }

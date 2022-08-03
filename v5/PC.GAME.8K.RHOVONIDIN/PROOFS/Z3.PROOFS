@@ -1,0 +1,71 @@
+############################################
+# Copyright (c) Microsoft Corporation. All Rights Reserved.
+#
+# all humans are mortal
+# Socrates is a human
+# so Socrates mortal 
+############################################
+
+from z3 import *
+
+Object = DeclareSort('Object')
+
+Human = Function('Human', Object, BoolSort())
+Mortal = Function('Mortal', Object, BoolSort())
+
+# a well known philosopher 
+socrates = Const('socrates', Object)
+
+# free variables used in forall must be declared Const in python
+x = Const('x', Object)
+
+axioms = [ForAll([x], Implies(Human(x), Mortal(x))), Human(socrates)]
+
+s = Solver()
+s.add(axioms)
+
+print(s.check()) # prints sat so axioms are coherent
+
+# classical refutation
+s.add(Not(Mortal(socrates)))
+
+print(s.check()) # prints unsat so socrates is Mortal
+
+
+#----------------------------------------------------------------------------------------
+# AUTHOR : AbdulShabazz
+#
+# DESCRIPTION : Z3Prover is a propositional logic theorem prover which tests a sentences SATISFIABILITY
+# This library will be used to validate the stability of the PC game
+#
+# Proof : GAME_OVER => Rhovinidin is alive and is King, while The Enmity is no longer king
+#
+#----------------------------------------------------------------------------------------
+
+import z3
+
+Or = z3.Or
+And = z3.And
+Not = z3.Not
+Bool = z3.Bool
+Const = z3.Const
+Solver = z3.Solver
+Implies = z3.Implies
+Function = z3.Function
+BoolSort = z3.BoolSort
+DeclareSort = z3.DeclareSort
+
+GAME_OVER = Bool('GAME_OVER')
+
+Object = DeclareSort('Object')
+Rhovonidin = Const('Rhovonidin', Object)
+The_Enmity = Const('The_Enmity', Object)
+
+IS_KING = Function('IS_KING', Object, BoolSort())
+END_OF_LIFE = Function('END_OF_LIFE', Object, BoolSort())
+
+proof = Solver()
+proof.add( Implies( GAME_OVER, And( And( IS_KING( Rhovonidin ), Not( END_OF_LIFE( Rhovonidin ) ) ), Not( IS_KING( The_Enmity ) ) ) ) )
+proof.check() # sat!
+
+print( f" { proof.model } " )

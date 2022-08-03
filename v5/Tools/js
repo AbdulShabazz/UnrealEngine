@@ -1,0 +1,745 @@
+//
+
+const v = ret.length / I ;
+let UpdateStatusBar = new Promise((resolve,reject) =>{ requestIdleCallback(()=>{ NextStep(v) }) ; resolve() })
+
+//
+
+/*
+
+  Copyright (c) 2022 - AbdulShabazz - All rights reserved.
+
+  TITLE
+    Primes Gen Tool
+
+  AUTHOR
+    AbdulShabazz https://github.com/AbdulShabazz
+
+  DESCRIPTION
+    Primes Generator (Code.value) along with progress bar animation (ProgressBar.value)
+
+  INPUT (Data.value)
+    3
+
+  OUTPUT (Result.value)
+    2 3 5
+
+  VERSION
+    Major.Minor.Bugfix.Patch
+    1.0.0.0
+
+  NOTES
+    N/A
+
+*/
+let __DEBUG__ = true
+let __msg__ = console.log
+let __info__ = function(u){ Result.value = u } ;
+let i = 3
+let ret = [2]
+let I = Data.value
+let winID = null
+function NextStep(e)
+{
+    ProgressBar.value = e ;
+    if (ret.length < I)
+    {
+        let IncludeIDX = true
+        let MidwayPoint = i / 2
+        for (let u of ret)
+        {
+            if (u > MidwayPoint)
+                break
+            if (i % u == 0)
+            {
+                IncludeIDX = false
+                break
+            }
+        }
+        if (IncludeIDX)
+        {
+            ret.push(i) 
+        }
+        i++
+        const v = ret.length / I
+        requestAnimationFrame(()=>{ NextStep(v) })
+    }
+    else
+    {
+        __info__(ret)
+    }
+}
+const v = ret.length / I 
+requestAnimationFrame(()=>{ NextStep(v) })
+//
+ProgressBar.dispatchEvent(new CustomEvent("ProgressEvent", { value: 1 }))
+//
+/*
+
+  Copyright (c) 2022 - AbdulShabazz - All rights reserved.
+
+  TITLE
+    Primes Gen Tool
+
+  AUTHOR
+    AbdulShabazz https://github.com/AbdulShabazz
+
+  DESCRIPTION
+    Primes Generator (Code.value) along with progress bar animation (ProgressBar.value)
+
+  INPUT (Data.value)
+    3
+
+  OUTPUT (Result.value)
+    2 3 5
+
+  VERSION
+    Major.Minor.Bugfix.Patch
+    1.0.0.0
+
+  NOTES
+    N/A
+
+*/
+let __DEBUG__ = true
+let __msg__ = console.log
+let __info__ = function(u){ Result.value = u } ;
+let i = 3
+let ret = [2]
+let I = Data.value
+let winID = null
+function NextStep()
+{
+    if (ret.length < I)
+    {
+        let IncludeIDX = true
+        let MidwayPoint = i / 2
+        // FIFO
+        if(ProgressBar.value > ret.length / I)
+        {
+            winID && cancelIdleCallback(winID)
+            ProgressBar.value = 0
+            return
+        }
+        // Progress Bar 
+        ProgressBar.value = ret.length / I
+        // Prime Library
+        for (let u of ret)
+        {
+            if (u > MidwayPoint)
+                break
+            if (i % u == 0)
+            {
+                IncludeIDX = false
+                break
+            }
+        }
+        if (IncludeIDX)
+            ret.push(i)
+        i++
+        requestIdleCallback(NextStep)
+    }
+    else
+    {
+        winID && cancelIdleCallback(winID)
+        ProgressBar.value = 1
+        __info__(ret)
+    }
+}
+winID = requestIdleCallback(NextStep)
+//
+
+/*
+
+  Copyright (c) 2022 - AbdulShabazz - All rights reserved.
+
+  TITLE
+    Primes Gen Tool
+
+  AUTHOR
+    AbdulShabazz https://github.com/AbdulShabazz
+
+  DESCRIPTION
+    Primes Generator (Code.value) along with progress bar animation (ProgressBar.value)
+
+  INPUT (Data.value)
+    3
+
+  OUTPUT (Result.value)
+    2 3 5
+
+  VERSION
+    Major.Minor.Bugfix.Patch
+    1.0.0.0
+
+  NOTES
+    N/A
+
+*/
+let __DEBUG__ = true
+let __msg__ = console.log
+let __info__ = function(u){ Result.value = u } ;
+let i = 3
+let ret = [2]
+let I = Data.value
+let winID = null
+function NextStep()
+{
+    if (ret.length < I)
+    {
+        let IncludeIDX = true
+        let MidwayPoint = i / 2
+        // FIFO
+        if(ProgressBar.value > ret.length / I)
+        {
+            winID && cancelIdleCallback(winID)
+            ProgressBar.value = 0
+            return
+        }
+        // Progress Bar 
+        ProgressBar.value = ret.length / I
+        // Prime Library
+        for (let u of ret)
+        {
+            if (u > MidwayPoint)
+                break
+            if (i % u == 0)
+            {
+                IncludeIDX = false
+                break
+            }
+        }
+        if (IncludeIDX)
+            ret.push(i)
+        i++
+        requestIdleCallback(NextStep)
+    }
+    else
+    {
+        winID && cancelIdleCallback(winID)
+        __info__(ret)
+    }
+}
+winID = requestIdleCallback(NextStep)
+//
+/*
+
+  Copyright (c) 2022 - AbdulShabazz - All rights reserved.
+
+  TITLE
+    Primes Gen Tool
+
+  AUTHOR
+    AbdulShabazz https://github.com/AbdulShabazz
+
+  DESCRIPTION
+    Primes Generator (Code.value) along with progress bar animation (ProgressBar.value)
+
+  INPUT (Data.value)
+    3
+
+  OUTPUT (Result.value)
+    2 3 5
+
+  VERSION
+    Major.Minor.Bugfix.Patch
+    1.0.0.0
+
+  NOTES
+    N/A
+
+*/
+let __DEBUG__ = true
+let __msg__ = console.log
+let __info__ = function(u){ Result.value = u } ;
+let i = 3
+let ret = [2]
+let I = Data.value
+let winID = null
+function NextStep()
+{
+    if (ret.length < I)
+    {
+        let IncludeIDX = true
+        let MidwayPoint = i / 2
+        ProgressBar.value = i / I
+        for (let u of ret)
+        {
+            if (u > MidwayPoint)
+                break
+            if (i % u == 0)
+            {
+                IncludeIDX = false
+                break
+            }
+        }
+        if (IncludeIDX)
+            ret.push(i)
+        i++
+        winID = requestIdleCallback(NextStep)
+    }
+    else
+    {
+        winID && cancelIdleCallback(winID)
+        __info__(ret)
+    }
+}
+winID = requestIdleCallback(NextStep)
+//
+/*
+
+  Copyright (c) 2022 - AbdulShabazz - All rights reserved.
+
+  TITLE
+    Primes Gen Tool
+
+  AUTHOR
+    AbdulShabazz https://github.com/AbdulShabazz
+
+  DESCRIPTION
+    Primes Generator (Code.value)
+
+  INPUT (Data.value)
+    3
+
+  OUTPUT (Result.value)
+    2 3 5
+
+  VERSION
+    Major.Minor.Bugfix.Patch
+    1.0.0.0
+
+  NOTES
+    N/A
+
+*/
+let __DEBUG__ = true
+let __msg__ = console.log
+let __info__ = function(u){ Result.value = u } ;
+let i = 3
+let ret = [2]
+let I = Data.value
+let winID = null
+function step()
+{
+    if (ret.length < I)
+    {
+        let IncludeIDX = true
+        let MidwayPoint = i / 2
+        for (let u of ret)
+        {
+            if (u > MidwayPoint)
+                break
+            if (i % u == 0)
+            {
+                IncludeIDX = false
+                break
+            }
+        }
+        if (IncludeIDX)
+            ret.push(i)
+        i++
+        winID = requestIdleCallback(step)
+    }
+    else
+    {
+        winID && cancelIdleCallback(winID)
+        __info__(ret)
+    }
+}
+winID = requestIdleCallback(step)
+//
+/*
+
+  Copyright (c) 2022 - AbdulShabazz - All rights reserved.
+
+  TITLE
+    Primes Gen Tool
+
+  AUTHOR
+    AbdulShabazz https://github.com/AbdulShabazz
+
+  DESCRIPTION
+    Primes Generator (Code.value)
+
+  INPUT (Data.value)
+    3
+
+  OUTPUT (Result.value)
+    2 3 5
+
+  VERSION
+    Major.Minor.Bugfix.Patch
+    1.0.0.0
+
+  NOTES
+    N/A
+
+*/
+let __DEBUG__ = true
+let __msg__ = console.log
+let __info__ = function(u){ Result.value = u } ;
+let i = 3
+let ret = [2]
+let I = Data.value
+while (ret.length < I)
+{
+    let IncludeIDX = true
+    let MidWayPoint = i / 2
+    let code = []
+    for (let u of ret)
+    {
+        code.push
+        (
+            `if (${u} > ${i / 2})
+                IncludeIDX
+            if (${i} % ${u} == 0)
+            {
+                IncludeIDX = false
+            }`
+        )
+    }
+    eval(code.join('\n'))
+    if (IncludeIDX)
+        ret.push(i)
+    i++
+}
+__info__(ret)
+//
+/*
+
+  Copyright (c) 2022 - AbdulShabazz - All rights reserved.
+
+  TITLE
+    Primes Gen Tool
+
+  AUTHOR
+    AbdulShabazz https://github.com/AbdulShabazz
+
+  DESCRIPTION
+    Prime Number Generator (Code.value)
+
+  INPUT (Data.value)
+    3
+
+  OUTPUT (Result.value)
+    2 3 5
+
+  VERSION
+    Major.Minor.Bugfix.Patch
+    1.0.0.0
+
+  NOTES
+    N/A
+
+*/
+let __DEBUG__ = true
+let __msg__ = console.log
+let __info__ = function(u){ Result.value = u } ;
+let i = 3
+let ret = [2] ;
+let I = Data.value
+let IsPrimeEvent = new Event("IsPrimeEvent")
+function IsPrime(e)
+{
+    let u = e.detail
+    if (u > i / 2)
+        
+}
+while (ret.length < I)
+{
+    let IncludeIDX = true
+    for (let u of ret)
+    {
+        if (u > i / 2)
+            break
+        if (i % u == 0)
+        {
+            IncludeIDX = false
+            break
+        }
+    }
+    if (IncludeIDX)
+    {
+        ret.push(i)
+        ret[ret.length-1].addEventListener(new CustomEvent("IsPrimeEvent", { detail:i }),IsPrime,false)
+    }
+    i++
+}
+__info__(ret)
+//
+while (ret.length < I)
+{
+    let A = i % 2;
+    let B = i % 3;
+    let C = i % 5;
+    let D = i % 7;
+    A && B && C && D && ret.push(i) ;
+    i++
+}
+//
+const MyPromise = new Promise
+(
+    (resolve, reject) =>
+    {
+        resolve(Code.value)
+    }
+)
+async function myEval(e)
+{
+    Result.value = "Working..."
+    MyPromise
+   .then((u) =>{ eval(u) })
+   .catch((e)=>{ Result.value += e })
+   .finally((e)=>{ Result.value.match(/^Working/) && (Result.value = "Q.E.D.") })
+}
+// let myWorker = new Worker(URL.createObjectURL(new Blob([myEval.toString(),{type:'text/plain'}])))
+Data.addEventListener('keyup',myEval,false)
+Code.addEventListener('keyup',myEval,false)
+//
+let terrainPRIMES = // 15 terrain map primes per (3x3 = 9 search grid) = 135 total //
+[
+2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73,79,83,89,97,101,103,107,109,113,127,131,137,
+139,149,151,157,163,167,173,179,181,191,193,197,199,211,223,227,229,233,239,241,251,257,263,269,271,277,
+281,283,293,307,311,313,317,331,337,347,349,353,359,367,373,379,383,389,397,401,409,419,421,431,433,439,
+443,449,457,461,463,467,479,487,491,499,503,509,521,523,541,547,557,563,569,571,577,587,593,599,601,607,
+613,617,619,631,641,643,647,653,659,661,673,677,683,691,701,709,719,727,733,739,743,751,757,761
+] ;
+
+//
+
+    txtDest.onclick = function(){
+        if(txtSrc.value.length > 0){
+            let tmp = [] ;
+            let err = [] ;
+            let src = txtSrc.value.match( /\[([\d+\.])+\]/g ) ;
+            let idc = src.map((u,i,me)=>{ return u.match(/\d+/g) }) ;
+            idc.map((u,i,me)=>{
+                (u in tmp) || ( tmp[u] = [] ) ;
+                let buff = tmp[u] ;
+                u.map((v,j,metoo)=>{
+                    (u in buff) || ( buff[u] = [] ) ;
+                    return v
+                }) ;
+                return u
+            }) ;
+            alert( JSON.stringify(src) ) ;
+        }
+    }
+//
+        //.replace(/\r/g, '\n')
+
+//let TS = {}
+let I = 1
+let J = 1
+
+function cb( a ){
+    let i = I 
+    let ret = i > 0 ? '<SCENE>' : '</SCENE>' ;
+    i *= -1
+    I = i
+    return ret
+}
+
+function cb2( a ){
+    let j = J 
+    let ret = j > 0 ? '<CHARACTER>' : '</CHARACTER>' ;
+    j *= -1
+    J = j
+    return ret
+}
+
+function cb3( a ){
+    return '<br>'
+}
+
+    let SceneHeading = { StartPattern:/^\*\*/g, EndPattern:/\*\*$/g, StartToken:'<SCENE>', EndToken:'</SCENE>' }
+    let CharacterHeading = { StartPattern:/^\*/g, EndPattern:/\*$/g, StartToken:'<CHARACTER>', EndToken:'</CHARACTER>' }
+    let NewlineFound = /\n/g
+
+    let bCharacterScope = false
+    let bHeadingScope = false
+
+.filter(
+                function(u,i,me){
+                    return u != '\r'
+                }
+            )
+            
+    .filter(
+        function(u,i,me){
+            return u != "" 
+        })
+        
+        //.replace(/\n/gm, '<br>')
+        //.replace(/\*\*\n/g, ' SCENE_END ')
+        //.replace(/\*\*/g, ' SCENE ')
+        //.replace(/\*\n+/g, ' CHARACTER_END ')
+        //.replace(/\*/g, ' CHARACTER ')
+        
+        .replace(/(\*\*\n+)/g, '</SCENE>')
+        .replace(/(\*\*)/g, '<SCENE>')
+        .replace(/(\*\n+)/g, '</CHARACTER>')
+        .replace(/(\*)/g, '<CHARACTER>')
+
+        .replace(/\n\n/g, '<br>')
+        .replace(/\*\*/g, cb)
+        .replace(/\*/g, cb2)
+        .replace(/\n/gm, '<br>')
+        
+    /* return this.split(/\s+/g).map(
+        function( txtWordGroup, nIdx, objMe ){
+            txtWordGroup.match( SceneHeading.StartPattern ) && ( txtWordGroup = txtWordGroup.replace( SceneHeading.StartPattern, SceneHeading.StartToken ) ) && ( bHeadingScope = true )
+            txtWordGroup.match( SceneHeading.EndPattern ) && ( txtWordGroup = txtWordGroup.replace( SceneHeading.EndPattern, SceneHeading.EndToken ) ) && ( bHeadingScope = false )
+            txtWordGroup.match( CharacterHeading.StartPattern ) && ( txtWordGroup = txtWordGroup.replace( CharacterHeading.StartPattern, CharacterHeading.StartToken ) ) && ( bCharacterScope = true )
+            txtWordGroup.match( CharacterHeading.EndPattern ) && ( txtWordGroup = txtWordGroup.replace( CharacterHeading.EndPattern, CharacterHeading.EndToken ) ) && ( bCharacterScope = false )
+            return txtWordGroup
+        }).join(' ') */
+        
+    //let NewlinesFound = { StartPattern:/^\n\n/g, EndPattern:/\n\n$/g, StartToken:'<BEAT>',  EndToken:'</BEAT>' }
+    //let NewlineFound = { StartPattern:/^\n/g, EndPattern:/\n$/g, StartToken:'</CHARACTER><DIALOGUE>', EndToken:'</CHARACTER></DIALOGUE>' }
+
+            //txtWordGroup.match( NewlineFound ) && ( txtWordGroup = txtWordGroup.replace( NewlineFound, '<br>' ) )
+            //txtWordGroup.match( NewlinesFound.StartPattern ) && ( txtWordGroup = txtWordGroup.replace( NewlinesFound.StartPattern, CharacterHeading.StartToken ) )
+            //txtWordGroup.match( NewlinesFound.EndPattern ) && ( txtWordGroup = txtWordGroup.replace( NewlinesFound.EndPattern, CharacterHeading.EndToken ) ) )
+            //txtWordGroup.match( NewlineFound.StartPattern ) && ( txtWordGroup = txtWordGroup.replace( NewlinesFound.StartPattern, CharacterHeading.StartToken ) )
+            //txtWordGroup.match( NewlineFound.EndPattern ) && ( txtWordGroup = txtWordGroup.replace( NewlinesFound.EndPattern, CharacterHeading.EndToken ) )
+
+        .replace(/(\n\*\*)/g, '<SCENE>')
+        .replace(/(\*\*\n)/g, '</SCENE>')
+        .replace(/(\n\n\*)/g, '<CHARACTER>')
+        .replace(/(\*\n\n)/g, '</CHARACTER>')
+        .replace(/(\n\n)/g, '</CHARACTER>')
+
+this.split(/\s+/g).map(
+        function( txtWordGroup, nIdx, objMe ){
+            let iFLAGS = 
+            ( txtWordGroup.match( SceneHeading.Pattern ) ? '1':'0' ) +
+            ( txtWordGroup.match( NewlinesFound.Pattern ) ? '1':'0' ) +
+            ( txtWordGroup.match( CharacterHeading.Pattern ) ? '1':'0' ) +
+            ( txtWordGroup.match( NewlineFound.Pattern ) ? '1':'0' ) + "|" +
+            ( bCharacterScope ?  '1':'0' ) +
+            ( bHeadingScope ?  '1':'0' )
+            switch( iFLAGS ){
+                case '1010|00':
+                bHeadingScope = true
+                txtWordGroup = txtWordGroup.replace( SceneHeading.Pattern, SceneHeading.StartToken )
+                break
+
+                case '1010|01':
+                bHeadingScope = false
+                txtWordGroup = txtWordGroup.replace( SceneHeading.Pattern, SceneHeading.EndToken )
+                break
+
+                case '0000|01':
+                case '0000|10':
+                case '0000|00':
+                case '0010|01':
+                case '0010|00':
+                // NOP //
+                break
+
+                default:
+                throw Error( `Warning - Unprocessed encoding state, iFLAGS[ ${ iFLAGS } ]` )
+                //console.log( `Warning - Unprocessed encoding state, iFLAGS[ ${ iFLAGS } ]` )
+            }
+
+            return txtWordGroup
+        }
+    ).join(' ')
+
+                case '0010|00':
+                bCharacterScope = true
+                txtWordGroup = txtWordGroup.replace( CharacterHeading.Pattern, CharacterHeading.StartToken )
+                break
+
+                case '0010|10':
+                txtWordGroup = txtWordGroup.replace( CharacterHeading.Pattern, CharacterHeading.EndToken + NewlineFound.StartToken )
+                break
+
+                case '1010|10':
+                bCharacterScope = false
+                bHeadingScope = true
+                txtWordGroup = txtWordGroup.replace( SceneHeading.Pattern, CharacterHeading.EndToken + SceneHeading.StartToken )
+                break
+
+                case '0000|01':
+                case '0000|10':
+                case '0000|00':
+                // NOP //
+                break
+
+            switch( iFLAGS ){
+                case '0010|00':
+                bCharacterScope = true
+                txtWordGroup = txtWordGroup.replace( CharacterHeading.Pattern, CharacterHeading.StartToken )
+                break
+
+                case '0010|10':
+                //bCharacterScope = false
+                txtWordGroup = txtWordGroup.replace( CharacterHeading.Pattern, DialogueHeading.EndToken + CharacterHeading.EndToken +  )
+                break
+
+                case '0100|10':
+                case '0001|10':
+                txtWordGroup = txtWordGroup.replace( CharacterHeading.Pattern, CharacterHeading.EndToken + DialogueHeading.StartToken )
+                break
+
+                case '1010|00':
+                bHeadingScope = true
+                txtWordGroup = txtWordGroup.replace( SceneHeading.Pattern, SceneHeading.StartToken )
+                break
+
+                case '1010|01':
+                bHeadingScope = false
+                txtWordGroup = txtWordGroup.replace( SceneHeading.Pattern, SceneHeading.EndToken )
+                break
+
+                case '0100|00':
+
+                default:
+                console.log( `Warning - Unprocessed encoding state, iFLAGS[ ${ iFLAGS } ]`)
+            }
+
+            let S2 = txtWordGroup.match( SceneHeading2.Pattern )
+            let C2 = txtWordGroup.match( CharacterHeading2.Pattern )
+            
+            
+            let iFLAGS = 
+            ( bCharacterScope ?  '1':'0' ) +
+            ( bNewlineFound ?  '1':'0' ) +
+            ( bNewlinesFound ?  '1':'0' ) +
+            ( bHeadingScope ?  '1':'0' )
+            
+            /* 
+            if( S ){
+                if( !bHeadingScope ){
+                    bHeadingScope = true
+                    txtWordGroup = txtWordGroup.replace( SceneHeading.Pattern, SceneHeading.StartToken )
+                } else {
+                    bHeadingScope = false
+                    txtWordGroup = txtWordGroup.replace( SceneHeading.Pattern, SceneHeading.EndToken )
+                }
+            } else if( C ) {
+                if( !bCharacterScope ){
+                    bCharacterScope = true
+                    txtWordGroup = txtWordGroup.replace( CharacterHeading.Pattern, CharacterHeading.StartToken )
+                } else {
+                    bCharacterScope = false
+                    txtWordGroup = txtWordGroup.replace( CharacterHeading.Pattern, CharacterHeading.EndToken )
+                }
+            } else if () {
+                
+            }
+            txtWordGroup = ( S ? txtWordGroup.replace( SceneHeading.Pattern, SceneHeading.Token ) : txtWordGroup )
+            txtWordGroup = ( S2 ? txtWordGroup.replace( SceneHeading2.Pattern, SceneHeading2.Token ) : txtWordGroup )
+            txtWordGroup = ( A ? txtWordGroup.replace( ActionHeading.Pattern, ActionHeading.Token ) : txtWordGroup )
+            txtWordGroup = txtWordGroup.replace( CharacterHeading.Pattern, CharacterHeading.Token )
+            txtWordGroup = ( C2 ? txtWordGroup.replace( CharacterHeading2.Pattern, CharacterHeading2.Token ) : txtWordGroup )
+            txtWordGroup = ( D ? txtWordGroup.replace( DialogueHeading.Pattern, DialogueHeading.Token ) : txtWordGroup ) */
+            
+    let bNewlineFound = false
+    let bNewlinesFound = false
+            
+            ( bNewlineFound ?  '1':'0' ) +
+            ( bNewlinesFound ?  '1':'0' ) +

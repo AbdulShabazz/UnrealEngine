@@ -1,0 +1,54 @@
+/*
+
+  Copyright (c) 2022 - AbdulShabazz - All rights reserved.
+
+  TITLE
+    Primes Gen Tool
+
+  AUTHOR
+    AbdulShabazz https://github.com/AbdulShabazz
+
+  DESCRIPTION
+    Primes Generator (Code.value)
+
+  INPUT (Data.value)
+    3
+
+  OUTPUT (Result.value)
+    2 3 5
+
+  VERSION
+    Major.Minor.Bugfix.Patch
+    1.0.0.0
+
+  NOTES
+    N/A
+
+*/
+let __DEBUG__ = true
+let __msg__ = console.log
+let __info__ = function(u){ Result.value = u } ;
+let i = 2
+let ret = [] ;
+let realNUM = [0,1,2] ;
+let I = Data.value
+let pCACHE = {} ;
+while (ret.length < I)
+{
+    if (i==2)
+    {
+        ret.push(i)
+    }
+    else
+    {
+        let primeCANDIDATE = 0x0 ;
+        let primeNUMBERfield = { 0:function(){ ret.push( i ) } } ;
+       (i%2 != 0) && (primeCANDIDATE += 1) ;
+       (i%3 != 0) && (primeCANDIDATE += 1) ;
+       (i%5 != 0) && (primeCANDIDATE += 1) ;
+       (i%7 != 0) && (primeCANDIDATE += 1) ;
+       (primeCANDIDATE in primeNUMBERfield) && primeNUMBERfield[primeCANDIDATE]()
+    }
+    i++
+}
+__info__(ret)

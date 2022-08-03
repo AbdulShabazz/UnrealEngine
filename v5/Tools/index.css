@@ -1,0 +1,11 @@
+
+body {
+    height:660px;
+}
+textarea {
+    font-family: consolas;
+    font-size: 10pt;
+    width:100%;
+    height:31%;
+    outline:none;
+}
